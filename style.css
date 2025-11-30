@@ -94,4 +94,14 @@
 }
 .unordered-list{
     list-style-type:circle;
+
+}
+@media only screen and (max-width: 768px) {
+  .bg-container,
+  .favourite-places-bg-container,
+  .detailed-view-bg-container {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+  }
 }
