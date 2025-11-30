@@ -87,7 +87,7 @@
 .detailed-view-card-description {
   color: #6c6b70;
   font-family: "Roboto";
-  font-size: 13px;
+  font-size: 18px;
 }
 .detailed-view-card-text-container {
   padding: 16px;
@@ -105,4 +105,5 @@
     background-position: center;
   }
 }
+
 
