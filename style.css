@@ -51,7 +51,7 @@
 .favourite-place-card-description {
   color: #6c6b70;
   font-family: "Roboto";
-  font-size: 13px;
+  font-size: 18px;
 }
 .favourite-place-card-image {
   width: 80px;
@@ -105,3 +105,4 @@
     background-position: center;
   }
 }
+
